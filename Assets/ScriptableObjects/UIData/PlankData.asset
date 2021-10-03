@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ade745065c320c48ac4a018861fc9f0, type: 3}
+  m_Name: PlankData
+  m_EditorClassIdentifier: 
+  name: Plank Cabinet
+  sprite: {fileID: -4857857115544581168, guid: 1d74eec6d772a7e48811d0d1fb668fd6, type: 3}
+  activateText: Take
+  upgradeText: Upgrade
+  descriptionText: Cabinet with tools to repair holes. Upgrading this cabinet lets
+    you carry more of these at once.

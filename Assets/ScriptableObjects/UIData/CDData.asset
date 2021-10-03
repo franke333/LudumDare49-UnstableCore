@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ade745065c320c48ac4a018861fc9f0, type: 3}
+  m_Name: CDData
+  m_EditorClassIdentifier: 
+  name: Cooldown Machine
+  sprite: {fileID: 2839693632187293960, guid: 035c17fadd5a03049b2995f8a194f243, type: 3}
+  activateText: Activate
+  upgradeText: Upgrade
+  descriptionText: Cools the core while active. Upgrades decrease wait time and increases
+    cooling effect.
